@@ -115,3 +115,25 @@ Semua fitur numerik dinormalisasi menggunakan MinMaxScaler
 Split Data
 
 80% data untuk training, 20% untuk testing menggunakan train_test_split
+
+# Modeling
+
+Algoritma: Artificial Neural Network (ANN)
+
+Alasan Pemilihan Model
+
+ANN mampu menangkap hubungan non-linear antar fitur
+
+Cocok untuk klasifikasi biner
+
+Fleksibel dalam arsitektur dan tuning
+
+Arsitektur Model
+
+Input layer: sesuai jumlah fitur
+
+Hidden layer 1: 32 neuron, ReLU
+
+Hidden layer 2: 16 neuron, ReLU
+
+Output layer: 1 neuron, Sigmoid
