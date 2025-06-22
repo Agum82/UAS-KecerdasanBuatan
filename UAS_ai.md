@@ -51,3 +51,11 @@ Deskripsi Fitur
 | 1 week change          | Selisih penambahan kasus minggu ini           |
 | 1 week % increase      | Persentase peningkatan minggu ini             |
 | WHO Region             | Wilayah WHO tempat negara berada              |
+
+Ukuran dan Format Data
+
+Format: CSV
+
+Jumlah baris: 187 negara
+
+Tipe data: Numerik dan kategorikal
