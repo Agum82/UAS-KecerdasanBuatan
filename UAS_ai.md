@@ -12,7 +12,7 @@ Pandemi COVID-19 telah memberikan dampak besar terhadap berbagai negara di dunia
 
 Membangun model kecerdasan buatan untuk mengklasifikasikan negara-negara berdasarkan tingkat dampak COVID-19 (tinggi atau rendah) menggunakan metode Artificial Neural Network (ANN).
 
-Pengguna Sistem
+# Pengguna Sistem
 
 Organisasi kesehatan dunia (WHO)
 
