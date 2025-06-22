@@ -78,3 +78,6 @@ BAR CHART – 10 Negara dengan Kasus Tertinggi
  Pie chart proporsi WHO Region
 
 ![image](https://github.com/user-attachments/assets/d3ad106e-f50a-44bf-9ad5-677324a6efd5)
+
+
+![image](https://github.com/user-attachments/assets/cde02e55-efd0-43b6-820d-01ef0aafefb7)
