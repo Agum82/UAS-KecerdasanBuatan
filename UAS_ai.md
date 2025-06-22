@@ -223,3 +223,8 @@ Metrik Evaluasi
 | Recall                 | 0.89                                          | 
 | F1-score               | 0.88                                          | 
           
+Penjelasan Kinerja
+
+Model ANN cukup akurat untuk klasifikasi ini
+
+Recall tinggi menunjukkan model cukup sensitif dalam mendeteksi negara berdampak tinggi
