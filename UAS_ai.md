@@ -71,5 +71,10 @@ Kelas Low: lainnya
 Visualisasi Distribusi
 
 Histogram dan bar chart menunjukkan distribusi jumlah kasus dan kematian
+![image](https://github.com/user-attachments/assets/e2304cc8-c2de-453e-946c-ad0d9d13cb14)
+
+BAR CHART – 10 Negara dengan Kasus Tertinggi
+![image](https://github.com/user-attachments/assets/9ddad11e-394a-4cc5-aaf9-19504ff52a1e)
 
 Pie chart proporsi WHO Region
+![image](https://github.com/user-attachments/assets/d3ad106e-f50a-44bf-9ad5-677324a6efd5)
