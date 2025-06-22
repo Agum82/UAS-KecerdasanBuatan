@@ -275,9 +275,8 @@ Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
 
 # Lampiran (Opsional)
 
-Dataset asli: [Uploading country_wise_latest.csv…]()
-
+Dataset asli: 
 
 Visualisasi: heatmap, confusion matrix, learning curve
 
-Notebook: notebook_model.ipynb
+Notebook: 
