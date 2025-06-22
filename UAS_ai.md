@@ -1,4 +1,4 @@
-# Klasifikasi Dampak COVID-19 Global Menggunakan Artificial Neural Network (ANN)
+[country_wise_latest.csv](https://github.com/user-attachments/files/20851207/country_wise_latest.csv)# Klasifikasi Dampak COVID-19 Global Menggunakan Artificial Neural Network (ANN)
 Nama Kelompok:
 
 Agum Aidil Saepul Rohman
@@ -272,3 +272,12 @@ Brownlee, J. (2022). Imbalanced Classification with Python. Machine Learning Mas
 Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research.
 
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+
+# Lampiran (Opsional)
+
+Dataset asli: [Uploading country_wise_latest.csv…]()
+
+
+Visualisasi: heatmap, confusion matrix, learning curve
+
+Notebook: notebook_model.ipynb
