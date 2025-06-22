@@ -27,3 +27,8 @@ Memberikan analisis cepat dan efisien dari dampak COVID-19
 Menyediakan alat bantu pengambilan keputusan
 
 Mendeteksi pola dan anomali dalam penyebaran pandemi
+# Data Understanding
+
+Sumber Data
+
+Dataset diambil dari Kaggle: 
