@@ -20,7 +20,7 @@ Pemerintah negara
 
 Peneliti dan analis data kesehatan
 
-Manfaat Implementasi AI
+# Manfaat Implementasi AI
 
 Memberikan analisis cepat dan efisien dari dampak COVID-19
 
