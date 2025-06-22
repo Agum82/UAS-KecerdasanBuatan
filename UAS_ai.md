@@ -228,3 +228,11 @@ Penjelasan Kinerja
 Model ANN cukup akurat untuk klasifikasi ini
 
 Recall tinggi menunjukkan model cukup sensitif dalam mendeteksi negara berdampak tinggi
+
+# Kesimpulan dan Rekomendasi
+
+Ringkasan
+
+ANN berhasil mengklasifikasikan negara ke dalam dua kelas dampak COVID-19
+
+Model memiliki akurasi > 90% pada data testing
