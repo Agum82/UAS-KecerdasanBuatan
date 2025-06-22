@@ -76,5 +76,6 @@ Histogram dan bar chart menunjukkan distribusi jumlah kasus dan kematian
 BAR CHART – 10 Negara dengan Kasus Tertinggi
 ![image](https://github.com/user-attachments/assets/9ddad11e-394a-4cc5-aaf9-19504ff52a1e)
 
-Pie chart proporsi WHO Region
+
+ Pie chart proporsi WHO Region
 ![image](https://github.com/user-attachments/assets/d3ad106e-f50a-44bf-9ad5-677324a6efd5)
