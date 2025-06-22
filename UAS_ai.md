@@ -59,3 +59,9 @@ Format: CSV
 Jumlah baris: 187 negara
 
 Tipe data: Numerik dan kategorikal
+
+Target Klasifikasi
+
+Kelas High: negara dengan kematian > 10.000
+
+Kelas Low: lainnya
