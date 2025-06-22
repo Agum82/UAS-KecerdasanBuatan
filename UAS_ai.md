@@ -67,3 +67,9 @@ Kelas High: negara dengan kematian > 10.000
 Kelas Low: lainnya
 
 # Exploratory Data Analysis (EDA)
+
+Visualisasi Distribusi
+
+Histogram dan bar chart menunjukkan distribusi jumlah kasus dan kematian
+
+Pie chart proporsi WHO Region
