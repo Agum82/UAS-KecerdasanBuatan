@@ -65,3 +65,5 @@ Target Klasifikasi
 Kelas High: negara dengan kematian > 10.000
 
 Kelas Low: lainnya
+
+# Exploratory Data Analysis (EDA)
