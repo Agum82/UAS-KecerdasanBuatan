@@ -31,4 +31,4 @@ Mendeteksi pola dan anomali dalam penyebaran pandemi
 
 Sumber Data
 
-Dataset diambil dari Kaggle: 
+Dataset diambil dari Kaggle: https://www.kaggle.com/datasets/imdevskp/corona-virus-report
