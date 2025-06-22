@@ -85,3 +85,12 @@ Heatmap menunjukkan korelasi tinggi antara jumlah kasus dan kematian
 
 Beberapa fitur seperti Active dan Confirmed saling berkorelasi kuat
 ![image](https://github.com/user-attachments/assets/cde02e55-efd0-43b6-820d-01ef0aafefb7)
+
+Deteksi Kelas Tidak Seimbang
+
+Negara dengan kematian > 10.000 berjumlah sekitar 15% dari total data (kelas High lebih sedikit)
+
+![image](https://github.com/user-attachments/assets/682f65d0-c4a2-4112-ae49-563fcaa8198e)
+![image](https://github.com/user-attachments/assets/dd3e4ffe-7de3-40be-a396-71a95441e8f6)
+
+
