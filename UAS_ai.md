@@ -139,7 +139,7 @@ Hidden layer 2: 16 neuron, ReLU
 Output layer: 1 neuron, Sigmoid
 
 Kode Implementasi Lengkap
-# IMPORT LIBRARY
+IMPORT LIBRARY
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -153,13 +153,13 @@ import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout
 
-# LOAD DATA
+ LOAD DATA
 data = pd.read_csv('/content/country_wise_latest.csv')
 
-# CREATE LABEL
+CREATE LABEL
 data['Impact'] = data['Deaths'].apply(lambda x: 'High' if x > 10000 else 'Low')
 
-# PREPROCESSING
+PREPROCESSING
 X = data.drop(columns=['Country/Region', 'WHO Region', 'Impact'])
 X = X.replace([np.inf, -np.inf], np.nan).fillna(0)
 scaler = MinMaxScaler()
@@ -170,7 +170,7 @@ y = label_encoder.fit_transform(data['Impact'])
 
 X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
 
-# MODEL
+MODEL
 model = Sequential([
     Dense(32, activation='relu', input_shape=(X_train.shape[1],)),
     Dropout(0.2),
@@ -181,7 +181,7 @@ model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy']
 
 history = model.fit(X_train, y_train, epochs=50, batch_size=8, validation_split=0.2, verbose=1)
 
-# EVALUASI
+EVALUASI
 loss, acc = model.evaluate(X_test, y_test)
 y_pred_prob = model.predict(X_test)
 y_pred = (y_pred_prob > 0.5).astype('int32')
@@ -189,7 +189,7 @@ y_pred = (y_pred_prob > 0.5).astype('int32')
 print(confusion_matrix(y_test, y_pred))
 print(classification_report(y_test, y_pred, target_names=label_encoder.classes_))
 
-# VISUALISASI AKURASI
+VISUALISASI AKURASI
 plt.figure(figsize=(10, 4))
 plt.plot(history.history['accuracy'], label='Train Accuracy')
 plt.plot(history.history['val_accuracy'], label='Validation Accuracy')
