@@ -33,16 +33,17 @@ Sumber Data
 
 Dataset diambil dari Kaggle: https://www.kaggle.com/datasets/imdevskp/corona-virus-report
 
-| Fitur                  | Deskripsi                                      | Tipe Data  |
-|------------------------|-----------------------------------------------|------------|
-| Country/Region         | Nama negara                                   | Kategorikal |
-| Confirmed              | Total kasus terkonfirmasi                     | Numerik    |
-| Deaths                 | Total kematian                                | Numerik    |
-| Recovered              | Total sembuh                                  | Numerik    |
-| Active                 | Kasus aktif                                   | Numerik    |
-| New cases              | Kasus baru terakhir                           | Numerik    |
-| New deaths             | Kematian baru terakhir                        | Numerik    |
-| New recovered          | Sembuh baru terakhir                          | Numerik    |
-| Deaths / 100 Cases     | Persentase kematian per 100 kasus             | Rasio      |
-| Recovered / 100 Cases  | Persentase sembuh per 100 kasus               | Rasio      |
-| Deaths / 100 Recovered | Rasio kematian dibanding sembuh               | Rasio      |
+Deskripsi Fitur
+| Fitur                  | Deskripsi                                     |
+|------------------------|-----------------------------------------------|
+| Country/Region         | Nama negara                                   | 
+| Confirmed              | Total kasus terkonfirmasi                     | 
+| Deaths                 | Total kematian                                | 
+| Recovered              | Total sembuh                                  | 
+| Active                 | Kasus aktif                                   | 
+| New cases              | Kasus baru terakhir                           |
+| New deaths             | Kematian baru terakhir                        |
+| New recovered          | Sembuh baru terakhir                          |
+| Deaths / 100 Cases     | Persentase kematian per 100 kasus             |
+| Recovered / 100 Cases  | Persentase sembuh per 100 kasus               |
+| Deaths / 100 Recovered | Rasio kematian dibanding sembuh               | 
