@@ -95,3 +95,23 @@ Insight Awal
 Negara seperti Amerika Serikat, India, dan Brasil memiliki tingkat kematian tinggi
 
 Beberapa negara memiliki rasio kesembuhan sangat tinggi
+
+# Data Preparation
+
+Pembersihan Data
+
+Menghapus kolom non-numerik (seperti nama negara)
+
+Mengganti nilai NaN dan Inf dengan 0
+
+Encoding Kategorikal
+
+Label target Impact: encoded menjadi 0 (Low) dan 1 (High)
+
+Normalisasi
+
+Semua fitur numerik dinormalisasi menggunakan MinMaxScaler
+
+Split Data
+
+80% data untuk training, 20% untuk testing menggunakan train_test_split
