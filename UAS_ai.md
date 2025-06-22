@@ -214,6 +214,12 @@ Confusion Matrix
 
 Ditampilkan dengan fungsi confusion_matrix() dari sklearn
 
-Metrik Evaluasi 
-| Metrik          | Nilai        |
-|--------------------------------|
+Metrik
+
+| Metrik                 | Nilai                                         |
+|------------------------|-----------------------------------------------|
+| Accuracy               | 0.91                                          | 
+| Precision              | 0.87                                          | 
+| Recall                 | 0.89                                          | 
+| F1-score               | 0.88                                          | 
+          
