@@ -32,3 +32,69 @@ Mendeteksi pola dan anomali dalam penyebaran pandemi
 Sumber Data
 
 Dataset diambil dari Kaggle: https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+
+Deskripsi Fitur
+
+Fitur
+
+Deskripsi
+
+Country/Region
+
+Nama negara
+
+Confirmed
+
+Jumlah total kasus terkonfirmasi
+
+Deaths
+
+Jumlah total kematian
+
+Recovered
+
+Jumlah total sembuh
+
+Active
+
+Kasus aktif saat ini
+
+New cases
+
+Kasus baru terakhir
+
+New deaths
+
+Kematian baru terakhir
+
+New recovered
+
+Kasus sembuh terbaru
+
+Deaths / 100 Cases
+
+Rasio kematian per 100 kasus
+
+Recovered / 100 Cases
+
+Rasio kesembuhan per 100 kasus
+
+Deaths / 100 Recovered
+
+Rasio kematian dibanding sembuh
+
+Confirmed last week
+
+Kasus minggu sebelumnya
+
+1 week change
+
+Selisih penambahan kasus minggu ini
+
+1 week % increase
+
+Persentase peningkatan minggu ini
+
+WHO Region
+
+Wilayah WHO tempat negara berada
