@@ -1,4 +1,4 @@
-[country_wise_latest.csv](https://github.com/user-attachments/files/20851207/country_wise_latest.csv)# Klasifikasi Dampak COVID-19 Global Menggunakan Artificial Neural Network (ANN)
+# Klasifikasi Dampak COVID-19 Global Menggunakan Artificial Neural Network (ANN)
 Nama Kelompok:
 
 Agum Aidil Saepul Rohman
