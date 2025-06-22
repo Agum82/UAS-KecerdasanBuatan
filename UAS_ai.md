@@ -46,4 +46,8 @@ Deskripsi Fitur
 | New recovered          | Sembuh baru terakhir                          |
 | Deaths / 100 Cases     | Persentase kematian per 100 kasus             |
 | Recovered / 100 Cases  | Persentase sembuh per 100 kasus               |
-| Deaths / 100 Recovered | Rasio kematian dibanding sembuh               | 
+| Deaths / 100 Recovered | Rasio kematian dibanding sembuh               |
+| Confirmed last week    | Kasus minggu sebelumnya                       |
+| 1 week change          | Selisih penambahan kasus minggu ini           |
+| 1 week % increase      | Persentase peningkatan minggu ini             |
+| WHO Region             | Wilayah WHO tempat negara berada              |
