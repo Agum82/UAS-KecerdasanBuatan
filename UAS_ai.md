@@ -139,6 +139,7 @@ Hidden layer 2: 16 neuron, ReLU
 Output layer: 1 neuron, Sigmoid
 
 Kode Implementasi Lengkap
+
 IMPORT LIBRARY
 import pandas as pd
 import numpy as np
