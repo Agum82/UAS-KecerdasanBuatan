@@ -260,3 +260,15 @@ Tambahkan lebih banyak data historis (longitudinal)
 Gunakan model lain untuk pembanding seperti Random Forest
 
 Lakukan hyperparameter tuning dan cross-validation
+
+# Referensi
+
+WHO. (2020). Coronavirus disease (COVID-19) pandemic. https://www.who.int
+
+Chollet, F. (2018). Deep Learning with Python. Manning Publications.
+
+Brownlee, J. (2022). Imbalanced Classification with Python. Machine Learning Mastery.
+
+Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research.
+
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
