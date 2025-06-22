@@ -79,5 +79,9 @@ BAR CHART – 10 Negara dengan Kasus Tertinggi
 
 ![image](https://github.com/user-attachments/assets/d3ad106e-f50a-44bf-9ad5-677324a6efd5)
 
+Korelasi antar fitur
 
+Heatmap menunjukkan korelasi tinggi antara jumlah kasus dan kematian
+
+Beberapa fitur seperti Active dan Confirmed saling berkorelasi kuat
 ![image](https://github.com/user-attachments/assets/cde02e55-efd0-43b6-820d-01ef0aafefb7)
