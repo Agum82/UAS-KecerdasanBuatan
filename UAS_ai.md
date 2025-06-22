@@ -214,7 +214,7 @@ Confusion Matrix
 
 Ditampilkan dengan fungsi confusion_matrix() dari sklearn
 
-Metrik
+Metrik Evaluasi
 
 | Metrik                 | Nilai                                         |
 |------------------------|-----------------------------------------------|
