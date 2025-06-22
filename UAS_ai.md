@@ -236,3 +236,27 @@ Ringkasan
 ANN berhasil mengklasifikasikan negara ke dalam dua kelas dampak COVID-19
 
 Model memiliki akurasi > 90% pada data testing
+
+Tujuan Tercapai?
+
+Ya. Sistem berhasil mengklasifikasi tingkat dampak COVID-19 secara cukup akurat.
+
+Kelebihan Model
+
+Dapat menangkap hubungan non-linear
+
+Akurasi tinggi
+
+Keterbatasan
+
+Dataset relatif kecil (187 negara)
+
+Tidak mempertimbangkan data waktu (time series)
+
+Rekomendasi
+
+Tambahkan lebih banyak data historis (longitudinal)
+
+Gunakan model lain untuk pembanding seperti Random Forest
+
+Lakukan hyperparameter tuning dan cross-validation
