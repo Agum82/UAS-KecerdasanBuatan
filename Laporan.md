@@ -279,4 +279,4 @@ Dataset asli:
 
 Visualisasi: heatmap, confusion matrix, learning curve
 
-Notebook: Covid19_Dataset.iynp
+Notebook: Covid_19Dataset.iypnb
